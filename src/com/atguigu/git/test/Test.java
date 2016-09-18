@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("update git 02");
 		System.out.println("update git 03");
 		System.out.println("update git 04");
+		System.out.println("update git 06");
 		System.out.println("upadte 06");
 	}
 }
