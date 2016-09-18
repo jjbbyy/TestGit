@@ -7,6 +7,5 @@ public class Test {
 		System.out.println("hello java");
 		System.out.println("update git 01");
 		System.out.println("update git 02");
-		System.out.println("update git 04");
 	}
 }
